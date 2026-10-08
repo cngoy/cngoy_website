@@ -1,0 +1,15 @@
+{
+  "hash": "374a3931c8c274d1a83dad29c41b1af5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"cngoy_website\"\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n# Christian\n\n## Credentials\n\nEconomics student — ECON 3201: Econometrics for Economics and Finance.\n\n\\## About Me\n\nI am an economics student interested in economics, finance, and quantitative analysis. I am developing my skills in econometrics and accouting.My decision to pursue a Master’s degree in Applied Economics stems from my desire to gain specialized knowledge and skills that will advance my career in Economics, as well as the need to expand my educational background and professional network. Earning a Master of Arts in Applied Economics will also enhance my credibility as an economist and prepare me for employment opportunities in the private sector and governmental organizations globally.\n\n## \n\n##Blog\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
